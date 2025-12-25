@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="mailto:humaytugce@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/humay-tugce-okunakol/">LinkedIn</a> •
   <a href="https://github.com/HumayTugceOkunakol?tab=repositories">Projects</a>
 </p>
 
